@@ -1,6 +1,6 @@
 {
   "name": "ReactOnlineShop",
-  "homepage": "https://KowshikShikder.github.io/rahabar",
+  "homepage": "https://KowshikShikder.github.io/Rahabar",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -16,7 +16,9 @@
     "nodemon": "^2.0.7",
     "react-imgix": "^9.1.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
