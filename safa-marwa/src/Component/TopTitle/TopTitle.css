@@ -1,0 +1,27 @@
+.brand-name{
+    height: 60px;
+    background: #5720A0;
+    padding: 5px;
+}
+
+
+
+.brand-name div:nth-child(1){
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: lightcyan;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-shadow: 0px 0px 20px black;
+
+}
+
+.brand-name div:nth-child(2){
+    font-size: 13px;
+    text-align: center;
+    font-weight: 500;
+
+    color: rgba(203, 226, 219, 0.705);
+}

@@ -1,0 +1,30 @@
+.AuthoParents{
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    background: transparent;
+    position: fixed;
+    z-index: 10000;
+}
+
+.logInfo{
+    width: 80px;
+    display: inline-block;
+
+}
+
+.user-pic{
+    display: inline-block;
+}
+
+.user-pic-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border:1px solid black; 
+    margin-top: 10px;
+    box-shadow: 1px 1px 20px 0.5px rgb(0, 0, 0);
+
+}

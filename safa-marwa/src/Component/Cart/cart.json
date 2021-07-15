@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "60ce4a7e70cf713a30365acd"
+  },
+  "cart": [
+    {
+      "image": "/productCarousalImages/pic1.jpg",
+      "code": "G-4369",
+      "price": "5100"
+    },
+    {
+      "image": "/productCarousalImages/pic2.jpg",
+      "code": "G-1369",
+      "price": "4100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "7100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "9100"
+    }
+  ],
+  "Useremail": "www.kowshikder7@gmail.com",
+  "userid": "230802804897440",
+  "username": "Maliha"
+},{
+  "_id": {
+    "$oid": "60ce4a7e70cf713a30365ace"
+  },
+  "cart": [
+    {
+      "image": "/productCarousalImages/pic1.jpg",
+      "code": "G-4369",
+      "price": "5100"
+    },
+    {
+      "image": "/productCarousalImages/pic2.jpg",
+      "code": "G-1369",
+      "price": "4100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "7100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "9100"
+    }
+  ],
+  "Useremail": "www.kowshikder7@gmail.com",
+  "userid": "2308028048970",
+  "username": "Kowshik"
+},{
+  "_id": {
+    "$oid": "60ce4a7e70cf713a30365acf"
+  },
+  "cart": [
+    {
+      "image": "/productCarousalImages/pic1.jpg",
+      "code": "G-4369",
+      "price": "5100"
+    },
+    {
+      "image": "/productCarousalImages/pic2.jpg",
+      "code": "G-1369",
+      "price": "4100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "7100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "9100"
+    }
+  ],
+  "Useremail": "www.kowshikder7@gmail.com",
+  "userid": "2308028048970",
+  "username": "Kowshik"
+},{
+  "_id": {
+    "$oid": "60ce4a7e70cf713a30365ad0"
+  },
+  "cart": [
+    {
+      "image": "/productCarousalImages/pic1.jpg",
+      "code": "G-4369",
+      "price": "5100"
+    },
+    {
+      "image": "/productCarousalImages/pic2.jpg",
+      "code": "G-1369",
+      "price": "4100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "7100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "9100"
+    }
+  ],
+  "Useremail": "www.kowshikder7@gmail.com",
+  "userid": "2308028048970",
+  "username": "Kowshik"
+},{
+  "_id": {
+    "$oid": "60ce4a7e70cf713a30365ad1"
+  },
+  "cart": [
+    {
+      "image": "/productCarousalImages/pic1.jpg",
+      "code": "G-4369",
+      "price": "5100"
+    },
+    {
+      "image": "/productCarousalImages/pic2.jpg",
+      "code": "G-1369",
+      "price": "4100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "7100"
+    },
+    {
+      "image": "/productCarousalImages/pic3.jpg",
+      "code": "G-1369",
+      "price": "9100"
+    }
+  ],
+  "Useremail": "www.kowshikder7@gmail.com",
+  "userid": "2308028048970",
+  "username": "Kowshik"
+}]

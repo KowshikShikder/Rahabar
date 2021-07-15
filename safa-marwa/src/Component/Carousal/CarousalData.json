@@ -1,0 +1,38 @@
+[
+    {
+        "image": "/productCarousalImages/pic1.jpg",
+        "code": "G-4369",
+        "price" : "5100"
+    },
+    {
+        "image": "/productCarousalImages/pic2.jpg",
+        "code": "G-1369",
+        "price" : "4100"
+    },
+    {
+        "image": "/productCarousalImages/pic3.jpg",
+        "code": "G-1369",
+        "price" : "7100"
+    },
+    {
+        "image": "/productCarousalImages/pic3.jpg",
+        "code": "G-1369",
+        "price" : "9100"
+    },
+    {
+        "image": "/productCarousalImages/pic3.jpg",
+        "code": "G-1369",
+        "price" : "9100"
+    },
+    {
+        "image": "/productCarousalImages/pic3.jpg",
+        "code": "G-1369",
+        "price" : "9100"
+    },
+    {
+        "image": "/productCarousalImages/pic3.jpg",
+        "code": "G-1369",
+        "price" : "9100"
+    }
+
+]

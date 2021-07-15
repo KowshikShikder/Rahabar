@@ -1,0 +1,122 @@
+.product-2{
+    background-color: black;
+    height: 630px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.showMore{
+    background-color: black;
+    min-height: 630px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: visible;
+    
+}
+
+
+
+.showMoreButton{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+.proImg{
+    display: flex;
+    justify-content: center;
+    height: 260px;
+    width: 230px;
+    margin: 10px;
+    margin-top: 40px ;
+    padding: 0px;
+    position: relative;
+    transition: .5s !important;
+    border: 5px solid black;
+    box-shadow:0px 0px 10px 1px black;
+}
+
+.proImg:hover{
+    transform: scale(1.05);
+    box-shadow:0px 0px 10px 1px rgb(182, 182, 182);
+}
+
+.proImg:hover img{
+    filter: blur(0.7px);
+}
+
+.proImg:hover .click{
+    transform: scale(1);
+}
+
+.proImg img{
+    width: 100%;
+    height: 100%;
+    background-color: royalblue;
+}
+
+
+.code_price{
+    position: absolute;
+    height: 35px;
+    width: 88%;
+    bottom: 0;
+    right: 1;
+    z-index: 200;
+}
+
+
+.code_price div{
+    background-color: rgb(117, 82, 82);
+    color: seashell;
+    height: 30px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+.flip{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition:  transform 0.2s;
+}
+
+.proImg:hover .flip{
+    transform: rotateY(180deg);
+}
+
+
+.button-AddCart{
+    position: absolute;
+    right: -5px;
+    top: -5px;
+}
+
+.button-AddCart button{
+    background-color: black;
+    color:rgb(255, 255, 255);
+    transition: 0.5s;
+    border-radius: 5px;
+}
+
+.button-AddCart button:hover{
+    transform: scale(0.9);
+}

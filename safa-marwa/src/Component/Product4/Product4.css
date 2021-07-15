@@ -1,0 +1,23 @@
+.product3-main-product4{
+    display: grid;
+    grid-template-columns: 55% 45% !important;
+
+}
+
+
+@media screen and ( max-width:830px){
+    
+    .product3-main-product4{
+        display: grid;
+        grid-template-columns: 100% !important;
+    }
+   
+    
+}
+@media screen and ( max-width:1000px){
+
+
+    .Charactaristics h5, .Charactaristics ul{
+        margin-left: 40px !important;
+    }
+}

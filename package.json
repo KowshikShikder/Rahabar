@@ -1,0 +1,31 @@
+{
+  "name": "ReactOnlineShop",
+  "homepage": "https://KowshikShikder.github.io/rahabar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@auth0/auth0-react": "^1.5.0",
+    "axios": "^0.21.1",
+    "concurrently": "^6.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "mongoose": "^5.12.12",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "react-imgix": "^9.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kow": "nodemon server.js",
+    "safa-marwa": "cd safa-marwa && npm start",
+    "start": "concurrently -n 'server,client' -c 'red,green'  \"nodemon server.js\"  \"npm run safa-marwa\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

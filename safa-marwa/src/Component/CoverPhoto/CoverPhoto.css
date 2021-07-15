@@ -1,0 +1,94 @@
+
+
+.cover{
+    background-image: url(./artificial-photography-vB5qtt8X4NA-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 500px;
+    width: 100%;
+    z-index: 1;
+    overflow: hidden;
+}
+
+
+.cover::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height:100%;
+    width:100% ;
+    background-color: rgba(255, 255, 255, 0.438);
+    opacity: 0.8;
+    z-index: -1;
+}
+
+
+/* COVER IMAGE END */
+
+
+/* COVER TEXT START */
+
+
+.cover .text{
+    position: absolute;
+    width: 100%;
+    top: 150px;
+    filter: blur(0px);
+    background: rgba(255, 255, 255, 0.329);
+
+}
+
+.cover .text p{
+    margin: 10px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.text p:nth-child(1){
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.text p:nth-child(2){
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text p:nth-child(3){
+    font-size: 10px;
+    font-weight: bold;
+}
+
+
+.cover .text .button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cover .text .button button{
+    height: 45px;
+    border-radius: 20px;
+    color: cornsilk;
+    border: none;
+    width: 125px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.button button:nth-child(1){
+    background:rgba(9, 5, 255, 0.959);
+    letter-spacing: 2px !important;
+
+}
+
+.button button:nth-child(2){
+    background: none;
+    border:1.5px solid white !important;
+    margin-left: 10px;
+    font-size: 12px !important;
+}
+

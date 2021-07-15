@@ -1,0 +1,41 @@
+.navbar{
+    position: relative;
+}
+
+
+.TopCart{
+    position: absolute;
+    top:30;
+    right: 0;
+    /* z-index: 3500; */
+}
+
+.TopCart button{
+    color: rgb(150, 40, 150);
+    transition: 0.5s;
+}
+
+.TopCart:hover button{
+    color: rgb(59, 39, 59);
+}
+
+.Close-Cart{
+    position: absolute;
+    top: 10;
+    left: 10;
+    font-size: 18px;
+    display: none;
+}
+
+.ShowCart{
+    position: absolute;
+    top: 30px;
+    right: 10px;
+    height: 400px;
+    width: 450px;
+    z-index: 3000;
+    backface-visibility: hidden;
+    display: none;
+    z-index: 1000;
+    background: darkblue;
+}
